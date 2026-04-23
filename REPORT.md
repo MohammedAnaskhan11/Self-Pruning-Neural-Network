@@ -1,9 +1,5 @@
 # Detailed Case Study Solution – Self-Pruning Neural Network on CIFAR-10
 
-**Santhiya B**
-RA2311026050088
-BTECH CSE AIML 
-
 ---
 
 ## 1. Company Overview
